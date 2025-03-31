@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on Power Platform projects, data visualization solutions, and automation workflows. I’m particularly interested in projects involving AI integration with Power Platform and scalable cloud-based solutions.<br>
 🌱 I’m currently learning advanced Power Platform features, AI-driven automation, and cloud integration with Microsoft Azure and AWS.<br>
 💬 Ask me about Power Apps development, Power Automate workflows, Power BI dashboards, and integrating Power Platform with SharePoint, SQL Server, and Dynamics 365.<br>
-⚡ Fun fact: I’m passionate about leveraging technology to solve real-world problems, and I enjoy experimenting with new tools to create innovative solutions that drive efficiency and productivity.
+⚡ Fun fact: I’m passionate about leveraging technology to solve real-world problems, and I enjoy experimenting with new tools to create innovative solutions that drive efficiency and productivity.<br>
 🔧 I also build custom connectors and APIs to extend the capabilities of Power Platform, enabling seamless integration with third-party services, legacy systems, and enterprise applications.
 
 ## 🌐 Socials:
